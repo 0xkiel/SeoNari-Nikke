@@ -2,7 +2,7 @@
 
 <img src="https://github.com/0xkiel/SeoNari-Nikke/blob/main/SeoNari.jpg" width="320"/>
 
-# Shinoko-NIKKE
+# SeoNari-Nikke
 
 
 <a href="https://discord.gg/ZDftjEyzqY">
