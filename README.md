@@ -1,0 +1,2 @@
+# SeoNari-Nikke
+useless cheto
